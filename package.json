@@ -12,7 +12,8 @@
     "typescript": "^3.2.2"
   },
   "scripts": {
-    "build": "ts-node ./build/index.ts"
+    "build": "ts-node ./build/index.ts",
+    "test": "ts-node ./test/index.ts"
   },
   "author": "rei network",
   "license": "ISC"
