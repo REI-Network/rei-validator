@@ -1,7 +1,7 @@
 {
   "nodeName": "DeFinder",
   "nodeAddress": "0x4E02f5Dd4B2Cd055B31Cb2a62F19b1C57a9C992C",
-  "logo": "https://app.definder.info/images/definder-logo.svg",
+  "logo": "https://static.definder.info/icon/static/definder-logo-small.png",
   "nodeDesc": "DeFinder is a blockchain data analysis platform that helps investors make effective investment decisions.",
   "website": "https://definder.info/",
   "location": {
