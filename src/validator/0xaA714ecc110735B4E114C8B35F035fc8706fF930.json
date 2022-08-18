@@ -1,0 +1,13 @@
+{
+  "nodeName": "Default Validator5",
+  "nodeAddress": "0xaA714ecc110735B4E114C8B35F035fc8706fF930",
+  "logo": "https://static.rei.network/media/currency_logo.png",
+  "nodeDesc": "REI network mainnet default validator 5",
+  "website": "https://rei.network/",
+  "location": {
+    "country": "Australia",
+    "city": "Sydney",
+    "longitude": "151.239",
+    "latitude": "-33.826"
+  }
+}
