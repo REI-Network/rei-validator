@@ -1,7 +1,7 @@
 {
   "nodeName": "Oort",
   "nodeAddress": "0x4AE71645F2D42aac2A7550d9DAE778e594d1E2F7",
-  "logo": "https://github.com/OortSwap/log/blob/main/logo.png",
+  "logo": "https://github.com/OortSwap/log/raw/main/logo.png",
   "nodeDesc": "Oortswap is also a AMM-based decentralized margin trading platform",
   "website": "https://www.oortswap.org/",
   "location": {
