@@ -1,0 +1,13 @@
+{
+	"nodeName": "CAT",
+	"nodeAddress": "0x66F6F8F219e84DF774D34414c86658Ce2deE617d",
+	"logo": "https://reshub.site/cat/cat-logo.png",
+	"nodeDesc": "CAT Validator",
+	"website": "",
+	"location": {
+		"country": "America",
+		"city": "California",
+		"longitude": "118.243683",
+		"latitude": "34.052235"
+	}
+}
