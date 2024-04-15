@@ -1,9 +1,9 @@
 {
-  "nodeName": "Yeaza Labs",
+  "nodeName": "water droplets",
   "nodeAddress": "0x42293459c41B53a191530CeAF8Ab3F2f885B6750",
-  "logo": "https://www.yeazalabs.org/logo.jpg",
-  "nodeDesc": "Yeaza Labs, the best NFT trading place on REI Network",
-  "website": "https://www.yeazalabs.org/",
+  "logo": "https://raw.githubusercontent.com/hi-world1/water/main/water.png",
+  "nodeDesc": "water droplets validator",
+  "website": "",
   "location": {
     "country": "China",
     "city": "Hong kong",
